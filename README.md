@@ -31,7 +31,7 @@ This project involves tracking a light green ball's trajectory from a video of a
    ```
 
 ## Output
-- The extracted frames will be saved in the game_frames directory.
-- The segmented frames will be saved in the segmented_frames directory.
-- The frames with the visualized trajectory will be saved in the frames_with_trajectory directory.
-- The final output video will be saved as output_video.mp4
+- The extracted frames will be saved in the `game_frames` directory.
+- The segmented frames will be saved in the `segmented_frames` directory.
+- The frames with the visualized trajectory will be saved in the `frames_with_trajectory` directory.
+- The final output video will be saved as `output_video.mp4`
